@@ -2,7 +2,5 @@ package Engenharia;
 
 public class EngenhariaDeSoftware {
   
-	public static void main (String args []){
-		
-	}
+	int a= 3;
 }
